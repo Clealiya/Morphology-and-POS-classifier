@@ -1,0 +1,10 @@
+Les	: Gender=Neut|Number=Plur|PronType=Int,Rel|Case=Nom|Degree=Cmp|Style=Arch|NumForm=Digit|Definite=Def
+bananes	: Gender=Fem,Masc|Number=Plur|PronType=Tot|NumType=Mult|Case=Nom|NumForm=Combi
+sont	: Gender=Neut|Number=Plur|Person=3|PronType=Tot|Tense=Imp|VerbForm=Ger|Mood=Ind|Case=Gen|Degree=Pos|Style=Vrnc|NumForm=Combi
+jaunes	: Gender=Neut|Number=Plur|VerbForm=Ger
+et	: _=Yes|Case=Nom|Degree=Sup|Style=Vrnc
+mûrs	: Gender=Neut
+.	: _=Yes|Gender=Neut|Case=Nom|Degree=Sup
+<PAD>	: <PAD>=Yes|PronType=Int,Rel|NumType=Mult|Degree=Sup|Style=Slng|NumForm=Combi
+<PAD>	: <PAD>=Yes|PronType=Int,Rel|NumType=Mult|Degree=Sup|Style=Slng|NumForm=Combi
+<PAD>	: <PAD>=Yes|Gender=Neut|PronType=Int,Rel|NumType=Mult|Degree=Sup|Style=Slng|NumForm=Combi

@@ -1,0 +1,10 @@
+Les	: Definite=Def|Number=Plur|PronType=Art
+bananes	: Gender=Fem|Number=Plur
+sont	: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+jaunes	: Gender=Masc|Number=Plur
+et	: _
+mûrs	: _=Yes
+.	: _
+<PAD>	: <PAD>=Yes
+<PAD>	: <PAD>=Yes
+<PAD>	: <PAD>=Yes

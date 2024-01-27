@@ -1,0 +1,10 @@
+Les	: DET
+bananes	: NOUN
+sont	: AUX
+jaunes	: ADJ
+et	: CCONJ
+mûrs	: ADJ
+.	: PUNCT
+<PAD>	: <PAD>
+<PAD>	: <PAD>
+<PAD>	: <PAD>

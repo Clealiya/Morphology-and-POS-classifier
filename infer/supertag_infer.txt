@@ -1,0 +1,10 @@
+Les	: Gender=Neut|PronType=Tot
+bananes	: NumForm=Roman|Abbr=Yes|Morph=VInf
+sont	: Tense=Imp|Mood=Cnd
+jaunes	: Polarity=Pos|Morph=VInf
+et	: PronType=Emp
+mûrs	: 
+.	: PronType=Emp|NumForm=Word
+<PAD>	: PronType=Emp|Style=Coll
+<PAD>	: PronType=Emp|Style=Coll
+<PAD>	: PronType=Emp|Style=Coll
